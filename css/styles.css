@@ -3790,10 +3790,9 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-about__pic {
-    width: var(--vspace-5);
-    height: var(--vspace-5.1);
-    border: 1rem solid rgba(255, 255, 255, 0.02);
-    border-radius: 50%;
+    width: var(--vspace-6);
+    height: var(--vspace-6.02);
+    border-radius: 35%;
 }
 
 .s-about__content-bottom {
